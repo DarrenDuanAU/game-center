@@ -1,4 +1,4 @@
-# Casual Games Hub
+# Games Hub
 
 Description: This project is a games hub built from scratch using React.js and SASS. It features a scoreboard and three simple games:
 
