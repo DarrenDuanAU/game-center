@@ -1,5 +1,7 @@
 # Games Hub
 
+## Intro
+
 Description: This project is a games hub built from scratch using React.js and SASS. It features a scoreboard and three simple games:
 
 - Tetris: Players manipulate differently shaped blocks to create complete rows at the bottom and score points by clearing them.
@@ -13,7 +15,7 @@ We harness the power of React.js and SASS technologies to provide an enjoyable g
 
 Demo: https://whitebear-booklet.net
 
-# Overview
+## Overview
 ### Tetris
 ![alt text](https://github.com/DarrenDuanAU/simple-games/blob/main/images/tetris.png)
 
@@ -23,7 +25,7 @@ Demo: https://whitebear-booklet.net
 ### Word Guess
 ![alt text](https://github.com/DarrenDuanAU/simple-games/blob/main/images/WordGuess.png)
 
-# Details
+## Details
 
 The basic structure of this project:
 - App
@@ -39,7 +41,7 @@ The basic structure of this project:
   - Tetris
   - Button (common components)
 
-# Quick Start
+## Quick Start
 
 - download this repo
 - In the project directory, you can run:
