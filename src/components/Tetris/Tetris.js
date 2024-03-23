@@ -4,10 +4,12 @@ import SquareLayer from './components/SquareLayer'
 import BlockLayer from './components/BlockLayer'
 
 import Button from '../Button'
-import { INIT_DATA, 
+import {
+  INIT_DATA, 
   DEF_CHIP_THEME_CODE, 
   START_BLOCK_COOR, 
-  MAX_X} from './constants'
+  MAX_X
+} from './constants'
 import { randomPick, 
   getColoredCoorTheme, 
   BlockHandler,
